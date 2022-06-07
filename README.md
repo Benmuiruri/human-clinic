@@ -2,14 +2,18 @@
 
 # Vet Clinic
 
-> This repo demonstrates the use of relational database to create the data structure for a clinic and store data about each patient's visit to the clinic.
+> This repo demonstrates how to create a Postgres relational database based on a schema diagram  and store data about each patient's visit to the clinic.
 
 ## Built With
 
 - MySQL
 - git
 
-## DB Schema
+## DB Schema Provided
+<img src="./images/schema.png">
+
+## DB Schema generated from the created database
+<img src="./images/schema_new.png">
 
 ## Getting Started
 
